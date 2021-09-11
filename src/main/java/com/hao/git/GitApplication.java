@@ -14,6 +14,7 @@ public class GitApplication {
         System.out.println("git6");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("github里更新，码云里同步");
         SpringApplication.run(GitApplication.class,args);
     }
 }
