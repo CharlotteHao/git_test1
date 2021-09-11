@@ -9,6 +9,9 @@ public class GitApplication {
         System.out.println("git2");
         System.out.println("git3");
         System.out.println("master");
+        System.out.println("git4");
+        System.out.println("git5");
+        System.out.println("git6");
         SpringApplication.run(GitApplication.class,args);
     }
 }
