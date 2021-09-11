@@ -12,6 +12,7 @@ public class GitApplication {
         System.out.println("git4");
         System.out.println("git5");
         System.out.println("git6");
+        System.out.println("push test");
         SpringApplication.run(GitApplication.class,args);
     }
 }
